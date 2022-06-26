@@ -1,0 +1,178 @@
+export default [
+  {
+    CompanyMaster: {
+      CompanyTypeId: 1,
+      CompanyCode: "ING-0067",
+      CompanyName: "Chaumin Creek",
+      CompanyWebsite: "www.cachecreekfoods.com",
+      CompanyEmail: "saram@cachecreekfoods.com",
+      CompanyPhone: "530 6621764",
+      IsActive: true,
+      CompanyId: "67",
+      CreatedDate: "2022-03-11T00:45:15.693",
+    },
+    CompanyAddressList: {
+      0: {
+        OfficeType: "HQ",
+        Country: 187,
+        Address1: "Kathmandu",
+        Address2: null,
+        ZipCode: "4545",
+        City: "Wood",
+        State: "Bagmati",
+        CompanyId: "67",
+        CompanyAddressId: 118,
+        IsActive: true,
+        CreatedDate: "2022-03-11T00:45:15.693",
+      },
+      
+    },
+  },
+  {
+    CompanyMaster: {
+      CompanyTypeId: 1,
+      CompanyCode: "ING-0087",
+      CompanyName: "Abhiyan Company",
+      CompanyWebsite: "www.Chaumin.com",
+      CompanyEmail: "saram@chaumin.com",
+      CompanyPhone: "530 5656",
+      IsActive: true,
+      CompanyId: "69",
+      CreatedDate: "2022-03-11T00:45:15.693",
+    },
+    CompanyAddressList: {
+      0: {
+        OfficeType: "lq",
+        Country: 187,
+        Address1: "411 N piii Ave",
+        Address2: null,
+        ZipCode: "555225",
+        City: "fireland",
+        State: "LA",
+        CompanyId: "58",
+        CompanyAddressId: 118,
+        IsActive: true,
+        CreatedDate: "2022-03-11T00:45:15.693",
+      },
+      
+    },
+  },
+  {
+    CompanyMaster: {
+      CompanyTypeId: 1,
+      CompanyCode: "ING-0067",
+      CompanyName: "Upreti Ltd",
+      CompanyWebsite: "www.cachecreekfoods.com",
+      CompanyEmail: "saram@cachecreekfoods.com",
+      CompanyPhone: "530 6621764",
+      IsActive: true,
+      CompanyId: "67",
+      CreatedDate: "2022-03-11T00:45:15.693",
+    },
+    CompanyAddressList: {
+      0: {
+        OfficeType: "HQ",
+        Country: 187,
+        Address1: "411 N Pioneer Ave",
+        Address2: null,
+        ZipCode: "95776",
+        City: "Woodland",
+        State: "CA",
+        CompanyId: "67",
+        CompanyAddressId: 118,
+        IsActive: true,
+        CreatedDate: "2022-03-11T00:45:15.693",
+      },
+      
+    },
+  },
+  {
+    CompanyMaster: {
+      CompanyTypeId: 1,
+      CompanyCode: "ING-0067",
+      CompanyName: "Sargam Company",
+      CompanyWebsite: "www.cachecreekfoods.com",
+      CompanyEmail: "saram@cachecreekfoods.com",
+      CompanyPhone: "530 6621764",
+      IsActive: true,
+      CompanyId: "67",
+      CreatedDate: "2022-03-11T00:45:15.693",
+    },
+    CompanyAddressList: {
+      0: {
+        OfficeType: "HQ",
+        Country: 187,
+        Address1: "411 N Pioneer Ave",
+        Address2: null,
+        ZipCode: "95776",
+        City: "Woodland",
+        State: "CA",
+        CompanyId: "67",
+        CompanyAddressId: 118,
+        IsActive: true,
+        CreatedDate: "2022-03-11T00:45:15.693",
+      },
+      
+    },
+  },
+  {
+    CompanyMaster: {
+      CompanyTypeId: 1,
+      CompanyCode: "ING-0067",
+      CompanyName: "Acer Company",
+      CompanyWebsite: "www.cachecreekfoods.com",
+      CompanyEmail: "saram@cachecreekfoods.com",
+      CompanyPhone: "530 6621764",
+      IsActive: true,
+      CompanyId: "67",
+      CreatedDate: "2022-03-11T00:45:15.693",
+    },
+    CompanyAddressList: {
+      0: {
+        OfficeType: "HQ",
+        Country: 187,
+        Address1: "411 N Pioneer Ave",
+        Address2: null,
+        ZipCode: "95776",
+        City: "Woodland",
+        State: "CA",
+        CompanyId: "67",
+        CompanyAddressId: 118,
+        IsActive: true,
+        CreatedDate: "2022-03-11T00:45:15.693",
+      },
+      
+    },
+  },
+  {
+    CompanyMaster: {
+      CompanyTypeId: 1,
+      CompanyCode: "ING-0067",
+      CompanyName: "React Company",
+      CompanyWebsite: "www.cachecreekfoods.com",
+      CompanyEmail: "saram@cachecreekfoods.com",
+      CompanyPhone: "530 6621764",
+      IsActive: true,
+      CompanyId: "67",
+      CreatedDate: "2022-03-11T00:45:15.693",
+    },
+    CompanyAddressList: {
+      0: {
+        OfficeType: "LQ",
+        Country: 187,
+        Address1: "411 N Pioneer Ave",
+        Address2: null,
+        ZipCode: "95776",
+        City: "Woodland",
+        State: "CA",
+        CompanyId: "67",
+        CompanyAddressId: 118,
+        IsActive: true,
+        CreatedDate: "2022-03-11T00:45:15.693",
+      },
+      
+    },
+  },
+
+ 
+];
